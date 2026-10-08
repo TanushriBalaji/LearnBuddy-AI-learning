@@ -163,11 +163,6 @@ Software Construction Project
 
 ---
 
-# 🔗 GitHub Repository
-
-https://github.com/Shivaniibhala/LearnBuddy_AI-learning
-
----
 
 # ⭐ Support
 
